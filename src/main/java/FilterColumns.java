@@ -22,7 +22,9 @@ import java.util.List;
  * Additional reference material if needed: https://www.w3schools.com/sql/sql_select.asp
  */
 public class FilterColumns {
-
+      public static void main(String[] args) {
+        
+      }
     /**
      * problem 1: Write the SQL statement in the problem1.sql file to return only the 'firstname' column from the
      * site_user table
